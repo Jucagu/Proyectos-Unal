@@ -1,1 +1,1 @@
-En este repositorio se encuentran los 3 proyectos que realice para el programa de formación en Machine Learning y Data Science de la universidad Nacional
+Para ver el segundo notebook use el siguiente link (https://nbviewer.org/github/Jucagu/Proyectos-Unal/blob/main/Proyecto_Final_2.ipynb)
